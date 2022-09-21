@@ -11,4 +11,5 @@ A collection of scripts useful for:
 List of scripts:
 
 | Script Name | Language | Description | Args | Example|
+| ------------|:--------:| ------------------------------------------:| ----------------------------------------:| -----------------------------------------------:|
 | WDFLogs2cvs.vbs | VBScript | Transfer the log file of the Windows Defnder Firewall to CSV file with header | WDFLogs2cvs.vbs "WindowsFirewallLogFilePath" "CSVOutputFilePath" [0 = CreateNewFile or 1 = AppedToExistingFile] | WDFLogs2cvs.vbs "C:\Windows\System32\LogFiles\Firewall\pfirewall.log" "D:\outputFolder\output.csv" 0
