@@ -15,4 +15,4 @@ List of scripts:
   - String: Windows Firewall Log File Path 
   - String: CSV Output File Path" 
   - Integer: 0 = Create New File or 1 = Apped To Existing File
- -Example: WDFLogs2cvs.vbs "C:\Windows\System32\LogFiles\Firewall\pfirewall.log" "D:\outputFolder\output.csv" 0
+- Example: WDFLogs2cvs.vbs "C:\Windows\System32\LogFiles\Firewall\pfirewall.log" "D:\outputFolder\output.csv" 0
