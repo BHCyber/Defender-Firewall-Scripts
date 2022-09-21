@@ -15,7 +15,7 @@ List of scripts:
 
 ## Scripts Details
 ### WDFLogs2cvs.vbs
-- Description: Transfer the log file of the Windows Defnder Firewall to CSV file with header
+- Description: Convert the log file of the Windows Defnder Firewall to CSV file with header
 - Args in Order:
   - String: Windows Firewall Log File Path 
   - String: CSV Output File Path" 
