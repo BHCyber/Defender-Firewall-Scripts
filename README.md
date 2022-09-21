@@ -9,8 +9,9 @@ A collection of scripts useful for:
 
 
 List of scripts:
+1.WDFLogs2cvs.vbs
 
-##WDFLogs2cvs.vbs
+## WDFLogs2cvs.vbs
 - Description: Transfer the log file of the Windows Defnder Firewall to CSV file with header
 - Args in Order:
   - String: Windows Firewall Log File Path 
